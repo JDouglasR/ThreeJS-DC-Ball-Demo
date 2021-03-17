@@ -1,9 +1,6 @@
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
-## Deployed
-https://jdouglasr.github.io/ThreeJS-DS-Demo/
-
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
