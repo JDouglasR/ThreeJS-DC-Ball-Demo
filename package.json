@@ -1,6 +1,9 @@
 {
+    "name": "threejs-dc-demo",
   "repository": "#",
   "license": "UNLICENSED",
+  "private": true,
+  "homepage": "https://jdouglasr.github.io/ThreeJS-DS-Demo/",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js"
